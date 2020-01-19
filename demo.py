@@ -25,7 +25,7 @@ print(num)
 a = input("输入",)
 b = input("输入",)
 print(a+b)
-print(type(a))
+print(type(a))   #type 输出数据的类型
 #输入12
 #输入12
 #输出1212
